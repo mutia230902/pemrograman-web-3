@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#F9C;
+	}
+div.struktur{
+	margin:0 auto;
+	background-color:#FFF;
+	width:500px;
+	height: 1000px;
+	}
+div.judul{
+	height: 51px;
+	background-color:#C36;
+	text-align:center;
+	padding-top: 20px;
+	}
+
+font.judulfnt{
+	color:#000;
+	font-style:italic;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+	}
+div.picture{
+	height:450px;
+	background-image:url(oxfrd.jpg);
+	}
+div.data{
+	font-style:italic;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:12px;
+	width:500px;
+	}
+tabel.tes{
+	width:500px;
+	height:auto;
+	}
+	
+
